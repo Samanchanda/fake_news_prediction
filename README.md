@@ -1,4 +1,4 @@
-# fake_news_prediction
+
 # 📰 Fake News Detection Using Machine Learning
 
 This project uses machine learning to identify whether a given news article is *real* or *fake*. It aims to address the growing problem of misinformation online by using a trained model on labeled datasets.
