@@ -16,6 +16,8 @@ This Jupyter notebook includes:
 
 The dataset used contains labeled news articles (real or fake), and it is loaded directly from a CSV file. Make sure the CSV file is in your working directory or properly linked.
 
+https://www.kaggle.com/c/fake-news/data?select=train.csv
+
 ## 🚀 How to Run
 
 1. Clone the repo or open the notebook in Google Colab.
@@ -42,5 +44,4 @@ Feel free to contribute or suggest improvements by opening a pull request.
 ## 📎 Link to Notebook
 
 (https://github.com/Samanchanda/fake_news_prediction/blob/main/fake-news-detection.ipynb)
-# dataset
-https://www.kaggle.com/c/fake-news/data?select=train.csv
+
